@@ -1,0 +1,100 @@
+/* Toolbench — clean, trustworthy, mobile-first. System font for an iOS-native
+   feel; a calm slate/indigo palette shared with the tools it hosts. All colours
+   meet WCAG AA against their backgrounds. */
+:root {
+  --ink: #14181f;
+  --ink-soft: #47505e;
+  --line: #e4e8ef;
+  --bg: #f6f8fb;
+  --surface: #ffffff;
+  --brand: #1f4fd8;
+  --brand-ink: #163aa6;
+
+  --space-1: 4px; --space-2: 8px; --space-3: 12px; --space-4: 16px;
+  --space-5: 20px; --space-6: 24px; --space-8: 32px; --space-10: 40px; --space-12: 48px;
+  --radius-sm: 8px; --radius-md: 12px; --radius-lg: 18px; --radius-pill: 999px;
+  --touch: 48px;
+  --ease: linear(0, 0.5 60%, 0.9 80%, 1.02 90%, 1);
+  --t-fast: 140ms;
+}
+@media (prefers-reduced-motion: reduce) { :root { --ease: ease; --t-fast: 1ms; } }
+
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+[hidden] { display: none !important; }
+
+html, body {
+  margin: 0; padding: 0; min-height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: var(--ink); background: var(--bg);
+  font-size: 16px; line-height: 1.5;
+}
+:focus-visible { outline: 3px solid var(--brand); outline-offset: 2px; border-radius: var(--radius-sm); }
+
+.shell {
+  max-width: 760px; margin: 0 auto;
+  padding: max(var(--space-8), env(safe-area-inset-top)) var(--space-4)
+           max(var(--space-10), env(safe-area-inset-bottom));
+}
+
+.hero { text-align: center; margin-bottom: var(--space-8); }
+.wordmark {
+  display: inline-flex; align-items: center; gap: var(--space-2);
+  font-weight: 700; font-size: 1.05rem; color: var(--brand-ink);
+  letter-spacing: 0.01em; margin-bottom: var(--space-4);
+}
+.wm-mark { font-size: 1.3rem; line-height: 1; }
+.hero h1 { font-size: 1.7rem; line-height: 1.2; margin: 0 0 var(--space-3); letter-spacing: -0.01em; }
+.hero .sub { color: var(--ink-soft); margin: 0 auto; max-width: 36rem; }
+
+.catalog { display: grid; grid-template-columns: 1fr; gap: var(--space-4); }
+
+.tool-card {
+  display: flex; gap: var(--space-4); align-items: flex-start;
+  background: var(--surface); border: 1px solid var(--line);
+  border-radius: var(--radius-lg); padding: var(--space-5);
+  text-decoration: none; color: inherit; min-height: var(--touch);
+  transition: transform var(--t-fast) var(--ease), border-color var(--t-fast) var(--ease);
+  transform: translate3d(0,0,0);
+}
+.tool-card:hover { border-color: #c9d6f2; }
+.tool-card:active { transform: scale(0.99) translate3d(0,0,0); }
+
+.tool-emoji { font-size: 2rem; line-height: 1; flex-shrink: 0; }
+.tool-body { flex: 1; min-width: 0; }
+.tool-title-row { display: flex; align-items: baseline; gap: var(--space-2); flex-wrap: wrap; }
+.tool-name { font-size: 1.15rem; margin: 0; }
+.tool-cat {
+  font-size: 0.72rem; font-weight: 700; letter-spacing: 0.03em; text-transform: uppercase;
+  color: var(--brand-ink); background: #e9efff; border-radius: var(--radius-pill);
+  padding: 2px var(--space-3);
+}
+.tool-tagline { margin: var(--space-2) 0 var(--space-3); font-weight: 600; }
+.tool-what { margin: 0 0 var(--space-4); color: var(--ink-soft); font-size: 0.92rem; }
+.tool-meta { display: flex; justify-content: space-between; align-items: center; gap: var(--space-3); flex-wrap: wrap; }
+.tool-price { font-size: 0.85rem; font-weight: 700; color: var(--brand-ink); }
+.tool-open { font-size: 0.85rem; font-weight: 700; color: var(--brand); }
+
+.empty {
+  text-align: center; color: var(--ink-soft);
+  background: var(--surface); border: 1px solid var(--line);
+  border-radius: var(--radius-lg); padding: var(--space-10) var(--space-5);
+}
+
+.promise {
+  margin-top: var(--space-10); background: var(--surface);
+  border: 1px solid var(--line); border-radius: var(--radius-lg); padding: var(--space-5) var(--space-6);
+}
+.promise h2 { font-size: 1.1rem; margin: 0 0 var(--space-3); }
+.promise ul { margin: 0; padding-left: var(--space-5); }
+.promise li { margin-bottom: var(--space-2); color: var(--ink-soft); font-size: 0.95rem; }
+.promise strong { color: var(--ink); }
+
+.foot { margin-top: var(--space-10); padding-top: var(--space-5); border-top: 1px solid var(--line); color: var(--ink-soft); font-size: 0.85rem; text-align: center; }
+.foot p { margin: 0 0 var(--space-2); }
+.foot a { color: var(--brand-ink); }
+.count { font-size: 0.8rem; }
+
+@media (min-width: 620px) {
+  .hero h1 { font-size: 2.1rem; }
+  .catalog { grid-template-columns: 1fr 1fr; }
+}
