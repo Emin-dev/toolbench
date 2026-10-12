@@ -1,0 +1,423 @@
+{
+  "accessproof": {
+    "objects": [
+      {
+        "oid": "030828f68b18ca7275242e29e4a54846dcb685d2",
+        "kind": "blob",
+        "bytes": 4344,
+        "sha256": "6c77065bdfd5304868bbbdc14a2cacd43882bc5d0289e802de7fe5f83f692f12"
+      },
+      {
+        "oid": "03aefd0ff4326bc38fe8edc89efd1b3e604f2068",
+        "kind": "blob",
+        "bytes": 1737,
+        "sha256": "50f66191688e87ad560ba1cc6c756f88fb0b1d16c7006e4f6c617d40f8b97aa1"
+      },
+      {
+        "oid": "053a5a9261ebd6b6b9d00a17e7f0e01c69167b95",
+        "kind": "tree",
+        "bytes": 36,
+        "sha256": "2ea1cc5a2ecfaec45188fd18c48fcc6bc785b92373e765e7c1c3187bb2a2d840"
+      },
+      {
+        "oid": "053d7b662d79c38894a546192181682db496b9e3",
+        "kind": "blob",
+        "bytes": 8561,
+        "sha256": "4cfac37cff8041b05bc62ddb38f0383fea4f5215187a723fa3b931df688310ca"
+      },
+      {
+        "oid": "092697fa558b0fad3dbc3eef7535a53958616320",
+        "kind": "blob",
+        "bytes": 3508,
+        "sha256": "e5135b19d6419ea3c5de739d1989ce36b572f50b8d11618ecec5311bbe5a72e7"
+      },
+      {
+        "oid": "0cd3617f468f8c24165207c3c17b7a9a40676fa9",
+        "kind": "tree",
+        "bytes": 281,
+        "sha256": "195dfb698f49cb3c28ba1ebc8c57a0c384285329e97252d50bd0806c85d07af2"
+      },
+      {
+        "oid": "0f70a99df31fbcffa151f36ce98f870ab66c980c",
+        "kind": "tree",
+        "bytes": 38,
+        "sha256": "36aac9d2ae00a88f4c4e40710d109abd9f18c93860cd3a35bbe64d6d90b48469"
+      },
+      {
+        "oid": "1600188832d21b4e09216f2e681d2ea03d5fc663",
+        "kind": "blob",
+        "bytes": 5286,
+        "sha256": "03b6529b0a8fb3818442a731212d64eb40a1b13dbf28d09807656cdcb6b9e5c0"
+      },
+      {
+        "oid": "24d58aa7c5ca0bd9082c55a80539d3107bd0ffde",
+        "kind": "tree",
+        "bytes": 525,
+        "sha256": "137900a4e8e9b3cb1b5eb53a7dee33abb67abfb5f178c713a33290f10ab0be29"
+      },
+      {
+        "oid": "2c78134cda62922fb0a456ddc092800579f73c04",
+        "kind": "tree",
+        "bytes": 167,
+        "sha256": "4cebc25bc1c3aa1e49bb0100f29bb649a3f02f69b0059a4aba976ae1192bf95d"
+      },
+      {
+        "oid": "306c5dd7072eb207668892b4fd67766a36fecf3d",
+        "kind": "blob",
+        "bytes": 3438,
+        "sha256": "32f9505021249ffc6dd10ad90a16e518dc5952e4cfa85d714eec2839f35dfead"
+      },
+      {
+        "oid": "368c293bef3784ecce5c5e958f4ceb7f0b9878ee",
+        "kind": "blob",
+        "bytes": 3766,
+        "sha256": "4f8563870d0fca38bbc3e00b6f670cb7fa9f380ba9f26a7f7d1184a6b18b1653"
+      },
+      {
+        "oid": "44ce4c248ef138224b917ea4bca37c09de34368f",
+        "kind": "tree",
+        "bytes": 525,
+        "sha256": "50ee953ed6589da5d049f4633d4d98fa7a9fc43bf8ad37faf8516b979a27d0ee"
+      },
+      {
+        "oid": "46b2b1ea640debcf9e2888492485bd7f019263ca",
+        "kind": "blob",
+        "bytes": 652140,
+        "sha256": "20c09fe157a8a34a30e241aaa1fcdade657734f08ab379ecfbeb7d45cc46e878"
+      },
+      {
+        "oid": "46b4336b7e0beb74fd182ab4faabd20d702c539d",
+        "kind": "blob",
+        "bytes": 4327,
+        "sha256": "af2ed278d390bf011f0764cbd3131882245347bbe691ac2e46d88968b6b0e9d6"
+      },
+      {
+        "oid": "51c2afd5efbdb0fabfbf88b8067a1290ccf1d7ed",
+        "kind": "commit",
+        "bytes": 872,
+        "sha256": "e9ef028c55b04ac3396d6963466c57f1d616cdd22796898cb8ec2f2309ee68ee"
+      },
+      {
+        "oid": "522948283333601a452b79e8ba6092ecfa3b1341",
+        "kind": "blob",
+        "bytes": 447,
+        "sha256": "9423103efa3c8d83bff9697755f31d123d83594bd892fb38890f291fa24199de"
+      },
+      {
+        "oid": "57f4c8b2c41b6024d9063f697df16ea9214294a9",
+        "kind": "blob",
+        "bytes": 5996,
+        "sha256": "745e73ea3bddcff71bd2de47dbc1dd353a9ebcb0cf50be8b5f537ab8de3319c9"
+      },
+      {
+        "oid": "5ce72cb108c9a3f09ae0863499cd645f497da8a6",
+        "kind": "blob",
+        "bytes": 423,
+        "sha256": "4651ffb24fe5e8a00afa4a1e856c48072cebd6fa5487ae0d21493ddb220ab5b1"
+      },
+      {
+        "oid": "66fbf02bf3546bb5a11eaaf7af20271f0d820562",
+        "kind": "blob",
+        "bytes": 985,
+        "sha256": "18303011d66aab2d9f54e537a2cc03782cc0d5d113d64a94111ec600dd1ee5e8"
+      },
+      {
+        "oid": "672567a3f4231938451d84370055ba0638a9e202",
+        "kind": "commit",
+        "bytes": 304,
+        "sha256": "fbb2e2e606186f90029581e9452e82f03ca33065c88fc114e980ef1f685bbb19"
+      },
+      {
+        "oid": "680990e6297cba0600bf1b612add2c0e823b3644",
+        "kind": "blob",
+        "bytes": 1372,
+        "sha256": "8cb143d91a57fada5a3c3297e9822c3a8cb5b8d73c9259fb0f76d9f95ed133e2"
+      },
+      {
+        "oid": "76f0fdc5d7c3f33fe64e425c04b39336e159beef",
+        "kind": "blob",
+        "bytes": 1330,
+        "sha256": "5c1e9e6b04419f8c64484ac3b2c084e8aef1e3d779bf431808c49d1ae935f0b4"
+      },
+      {
+        "oid": "7e53d979c62e91d9007fb78a72d6d8c7ba5def26",
+        "kind": "tree",
+        "bytes": 36,
+        "sha256": "d03de3b5ce3c5b2f7d57c7e8594a242bc850b5e3bace2201918d5ad265de7144"
+      },
+      {
+        "oid": "85a5e84602c9c84fb38a20e4e700dc2d46497fbe",
+        "kind": "tree",
+        "bytes": 88,
+        "sha256": "093e3eb3a17cad7ceaf7a1eb8cd0043666e9fff9817f95ccd72fd8d521e54518"
+      },
+      {
+        "oid": "8f2feeb69da1a399fee0c41f4daf52dbc0cbee41",
+        "kind": "commit",
+        "bytes": 301,
+        "sha256": "1d22e301826d504d8bd850c7cb68449799b14c8282153b8984925b381ca5f9c2"
+      },
+      {
+        "oid": "9578faf9384db978e4354837ff9f03a694f0017e",
+        "kind": "blob",
+        "bytes": 5254,
+        "sha256": "fe3299e40e445ee865745ee61f1d3fd34d946688160a5f503afd59878907a046"
+      },
+      {
+        "oid": "9c3ea593aedbd83b245bc29a0cc395866e4f9efe",
+        "kind": "tree",
+        "bytes": 122,
+        "sha256": "a10608a9dd1c79406fdef8873859ec50894b7a495731dcc107a0e8ecef97f571"
+      },
+      {
+        "oid": "9f6e5881bd2da9f579aef8de56b0ff08b9de319a",
+        "kind": "blob",
+        "bytes": 7612,
+        "sha256": "ee2e75452f19da7524a7ac60376b6548aa691027f9e94ecb6dee1955ad997c77"
+      },
+      {
+        "oid": "a005c6ce0c0544a8cf116e936283d876e1c54fe0",
+        "kind": "blob",
+        "bytes": 5195,
+        "sha256": "0816cc852c1c34aa3ff6c618af94ed49f2d66358211c02d44e9fb9cbf04f1aa5"
+      },
+      {
+        "oid": "a50e193869a9ffaf7f3d5157a0cefde731e58717",
+        "kind": "blob",
+        "bytes": 238,
+        "sha256": "f39278d52e5c48027ef9b5c388f3c45ee971ad4de2869fd3e8a4d3b1dc6de07b"
+      },
+      {
+        "oid": "aafcb345668bd80cbb256b066898d4df8988da0e",
+        "kind": "blob",
+        "bytes": 30,
+        "sha256": "8ffe9de56bd30c1a95cd945262d6e3ac355ada4111551dde41f67851b9f1fc55"
+      },
+      {
+        "oid": "b55ddc7f0d4618d1d74a9f8efc019ea865e44387",
+        "kind": "blob",
+        "bytes": 3634,
+        "sha256": "1127f0e59a5dcfa7500c81cee42c63655cbea2830086ba18e4e1116ffbc2f48d"
+      },
+      {
+        "oid": "b600299d6cf8dbf74131f201ead02160504c8afc",
+        "kind": "tree",
+        "bytes": 237,
+        "sha256": "006c1ff3f52a8ee36a7101dff93042b5fc46ada59f3f62d72abde23e105ccaa4"
+      },
+      {
+        "oid": "b72f2f72cc3887ffd756a0603e14b15a4bc31bef",
+        "kind": "blob",
+        "bytes": 63,
+        "sha256": "ec87a628469e89dfed1188aee32a848590c61b3e2218ddb8690d77b24892167e"
+      },
+      {
+        "oid": "be2cc4dfb609fb6c38f6365ec345bded3350dd63",
+        "kind": "blob",
+        "bytes": 15921,
+        "sha256": "af175b9d96ee93c21a036152e1b905b0b95304d4ae8c2c921c7609100ba8df7e"
+      },
+      {
+        "oid": "be733968c72c5b8cd88473f6291b92ef997f2cd4",
+        "kind": "blob",
+        "bytes": 1919,
+        "sha256": "6a6200d2e18549f1e57dfcec211169dbcd9e14a465348687cc58f779251641ee"
+      },
+      {
+        "oid": "c0899944d60e7b7c53f36f6f46c8945052f514c3",
+        "kind": "tree",
+        "bytes": 38,
+        "sha256": "b7696afcbce60ceea6c5aa2735be92e5d447bb3713f4e50731c3db74dcc72400"
+      },
+      {
+        "oid": "c370f77e94daf6df9048e954ec72b09c8dd59e44",
+        "kind": "commit",
+        "bytes": 277,
+        "sha256": "fd7913eeb5843e6942f993afb43fde495b826fb6c0a9c0acb616aaa50afe31e8"
+      },
+      {
+        "oid": "c873f2a42f9e0fec3d4f343ccc80ad02ce490f63",
+        "kind": "tree",
+        "bytes": 38,
+        "sha256": "fdb7c8637272216462ae494788b37860eec5349b9569be3b0b828af88f1a4d0a"
+      },
+      {
+        "oid": "c9cfd96ba9991d73c2399d3dbae247e2154482ea",
+        "kind": "blob",
+        "bytes": 1482,
+        "sha256": "e405e5181e0957f334fbb1d04da761a2b830bb42cbe661f7e45c614ca90d35b5"
+      },
+      {
+        "oid": "cb593377c50175c67db9025afd0332a9b94ff345",
+        "kind": "blob",
+        "bytes": 572599,
+        "sha256": "66a8aaa95a8b044a7fd74a5435873bf04ff65a1ca75567c921b7509742085a14"
+      },
+      {
+        "oid": "ce8fb20628b57d40ad78e48da494a7babb55bcfa",
+        "kind": "tree",
+        "bytes": 357,
+        "sha256": "9cf2e2d5d7a96c82863f420a6f5c936dd7bda36f7b29f3ece7223942d5732dc7"
+      },
+      {
+        "oid": "dc5df5c5ee4594187089348f3e2db4ffab24ee43",
+        "kind": "tree",
+        "bytes": 46,
+        "sha256": "2cb2ca9213dca7f40e4ed1773a14eba88a2b8576e7b21a50a833b4b775092992"
+      },
+      {
+        "oid": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "kind": "blob",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "oid": "e745b89219da2c9ac85b2ab9bd0e224164a19920",
+        "kind": "commit",
+        "bytes": 1207,
+        "sha256": "f4100c47e3cf2a7cd82304be90146d7f0167c0a527fe64dcfca786e8db9816f9"
+      },
+      {
+        "oid": "e8846a61054901504ecd5b6a172ea0b3c020edd9",
+        "kind": "blob",
+        "bytes": 1309,
+        "sha256": "3d0c4c4422cf1996897d4033432fdee48ebb7f861f381f2e4ed873dd7991fc03"
+      },
+      {
+        "oid": "eabdbd21c83a54002a59a17775ae9cd9de43d6a2",
+        "kind": "blob",
+        "bytes": 9840,
+        "sha256": "d9d7ddadad87a61dd32751b34cb8308120edd42ff0b76ff8f93538efc756e228"
+      },
+      {
+        "oid": "edabd104f5f9fa279afa62bb616d89a9af40907e",
+        "kind": "blob",
+        "bytes": 4064,
+        "sha256": "ca3a9a2097ae1dddfecd95adbe0b77ed2e879235cb26173efdc898ca9fcd2f5b"
+      },
+      {
+        "oid": "f4b584f34b77402ae012ff35f4a9cb69506eb3a6",
+        "kind": "blob",
+        "bytes": 776,
+        "sha256": "d26745324a91053dafe7d23464c5d4a820dbab5123ae0838e70b4401945913e7"
+      },
+      {
+        "oid": "fb6027026f6fe6ecbfb7d0e15f36233c38908d16",
+        "kind": "blob",
+        "bytes": 973,
+        "sha256": "9cd640b12ae39d67e3bb3b81d80248f40bd87e402e39af67f2e6e8a30b3ed4f0"
+      },
+      {
+        "oid": "fdbaddcb11df926ba300a47daf64bff78cf66e63",
+        "kind": "blob",
+        "bytes": 5747,
+        "sha256": "8c8a1a4b79d42abee3612f257ac9ae788e8542a7e66a38f4e7b0ffcdf3c1a4c0"
+      }
+    ],
+    "refs": [
+      "e745b89219da2c9ac85b2ab9bd0e224164a19920 refs/heads/main",
+      "8f2feeb69da1a399fee0c41f4daf52dbc0cbee41 refs/pull/1/head"
+    ],
+    "pattern_hits": [],
+    "scope": "Four high-confidence credential patterns only; not a comprehensive security certification."
+  },
+  "toolbench": {
+    "objects": [
+      {
+        "oid": "0c76f2fb47e528e6fa264d9ff4f90269d4f05ac6",
+        "kind": "blob",
+        "bytes": 664,
+        "sha256": "b88a4ffdd0f2a4035758aec3cc375500c508fe9a2fd6bcc41ae794824bacdaee"
+      },
+      {
+        "oid": "11b1125fc620c298e6d04b87eaa3a7ba29c7de3d",
+        "kind": "tree",
+        "bytes": 74,
+        "sha256": "9a04c183d40d9732b9701875243eb8e5da469681321851ee0cc0eb23bc7dc5f6"
+      },
+      {
+        "oid": "19f33debf338dcde40f0960dabf1b6740177d14c",
+        "kind": "commit",
+        "bytes": 779,
+        "sha256": "bf305d7751a3e83898e9e3f13d598b83f453b77996e880a532771820ce7175c8"
+      },
+      {
+        "oid": "27240f442af6881f880a47b11872ef76ace24a75",
+        "kind": "blob",
+        "bytes": 1476,
+        "sha256": "df25c9f268c50eddfaa561b55eff819ce0fbc56a2cf898e2aa3cd7a69e5f6660"
+      },
+      {
+        "oid": "291234ae2ebb0b0e0c2b6d7e33b660ca33937663",
+        "kind": "blob",
+        "bytes": 3521,
+        "sha256": "e174f9c9a35dace8e46a1aad28eac609e308601a8f7b8706da3fb66e439368f5"
+      },
+      {
+        "oid": "33f4c079182322ead31273a84c9b91c07a4ad3d2",
+        "kind": "blob",
+        "bytes": 241,
+        "sha256": "db263c68a749408bbc6f7a29b2d45fbf7c4aba717e813fccd46ef336d3d09ecd"
+      },
+      {
+        "oid": "4cf59c6d42d4be1560717fbef3e7516b7e79d39c",
+        "kind": "blob",
+        "bytes": 4390,
+        "sha256": "88d14bd59f42a5da27487edd5fa9ff8455598526fdb1f4a6c4840a7bd6536ac5"
+      },
+      {
+        "oid": "54a456765899d562dc84115f63a0c154299ab432",
+        "kind": "blob",
+        "bytes": 3515,
+        "sha256": "a308c4d649c23455df25b2c33ac65e97100677fe6e108ec29e1e7bccb4cd5e01"
+      },
+      {
+        "oid": "aafcb345668bd80cbb256b066898d4df8988da0e",
+        "kind": "blob",
+        "bytes": 30,
+        "sha256": "8ffe9de56bd30c1a95cd945262d6e3ac355ada4111551dde41f67851b9f1fc55"
+      },
+      {
+        "oid": "cc73c7327510770ec2c6c09a2bd04817c15b57e0",
+        "kind": "blob",
+        "bytes": 1072,
+        "sha256": "f9df0eb322fbfb56664dcbd251fe4076867d4b3af007348f2d2f3721bb83274c"
+      },
+      {
+        "oid": "d04e3e220bd0819a0756b7fd099f9b898242bcea",
+        "kind": "blob",
+        "bytes": 1448,
+        "sha256": "97c608cbc307017df5689f1eafffb23a1e2b651035e06b9f642bb4dc7b03a130"
+      },
+      {
+        "oid": "d6623c2f149ec39bcbb1246d48209d1778972975",
+        "kind": "tree",
+        "bytes": 404,
+        "sha256": "27a2f24cd2e98d1c8b493e947cdf94a1f6c3433212ce1d80c2296f38138979b1"
+      },
+      {
+        "oid": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "kind": "blob",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "oid": "f829d86cb0dd3c093ca67537d93e1f0bf8eb8e96",
+        "kind": "blob",
+        "bytes": 1686,
+        "sha256": "a23ea6699b97aae4e858bd3bdc9b0faf7b7dea5bc19f3805f8ed23e9abb3ed85"
+      },
+      {
+        "oid": "f88751de1860e15dca238ea85448030deb9b5f24",
+        "kind": "blob",
+        "bytes": 1307,
+        "sha256": "fd42946c95322e58fc0f0f246ae2e3177a76d99695521063900675975e346de5"
+      }
+    ],
+    "refs": [
+      "19f33debf338dcde40f0960dabf1b6740177d14c refs/heads/main"
+    ],
+    "pattern_hits": [],
+    "scope": "Four high-confidence credential patterns only; not a comprehensive security certification."
+  }
+}
